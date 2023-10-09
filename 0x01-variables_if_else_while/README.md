@@ -5,3 +5,6 @@ I sometimes suffer from insomnia. And when I can't fall asleep, I play what I ca
 alphABET
 When I was having that alphabet soup, I never thought that it would pay off
 Numberz
+Smile in the mirror
+mandatory
+
