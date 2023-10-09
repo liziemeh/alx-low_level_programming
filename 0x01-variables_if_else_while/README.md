@@ -8,3 +8,4 @@ Numberz
 Smile in the mirror
 mandatory
 
+Hexadecimal
