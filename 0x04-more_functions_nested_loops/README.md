@@ -5,3 +5,4 @@ isupper
 Collaboration is multiplication
 The numbers speak for themselves
 The numbers speak for themselves
+I believe in numbers and signs
