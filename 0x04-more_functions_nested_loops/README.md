@@ -3,3 +3,5 @@ isupper
 1-isdigit.c
 isupper
 Collaboration is multiplication
+The numbers speak for themselves
+The numbers speak for themselves
