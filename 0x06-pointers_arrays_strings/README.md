@@ -13,3 +13,4 @@ _putchar.c
 A dream doesn't become reality through magic; it takes sweat, determination and hard work
 It is the addition of strangeness to beauty that constitutes the romantic character in art
 Noise is a buffer, more effective than cubicles or booth walls
+Numbers have life; they're not just symbols on paper
